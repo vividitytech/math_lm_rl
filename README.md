@@ -1,12 +1,12 @@
 # math_lm_rl
-language models to solve math with reinforcement learning
-
+Technical report: A mixed policy to improve performance of language models on math problems
+refer to https://arxiv.org/pdf/2307.08767v1.pdf
 
 ### Download the GSM8K dataset from url:
 
 (1). https://github.com/openai/grade-school-math
 
-(2). And create data folder under the current repo
+(2). copy the data folder under the current repo
 
 ## train 
 ### run train.py to test CE method
